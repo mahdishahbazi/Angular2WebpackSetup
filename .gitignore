@@ -1,0 +1,15 @@
+# Add any directories, files, or patterns you don't want to be tracked by version control
+
+node_modules/
+public/Assets/images/temp/
+source/**/*.js
+source/**/*.js.map
+output/
+.env
+*.log
+.DS_Store
+typings/
+
+/*.log.*
+*.orig
+Source/general/js/cookie.json
