@@ -9,7 +9,7 @@ module.exports = {
     'polyfills': './source/polyfills.ts',
     'vendor': './source/vendor.ts',
     'app1': './source/app1.ts',
-    'app2': './source/app1.ts'
+    'app2': './source/app2.ts'
   },
 
   resolve: {

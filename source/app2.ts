@@ -1,7 +1,6 @@
 import { platformBrowserDynamic } from '@angular/platform-browser-dynamic';
 import {enableProdMode} from '@angular/core';
 
-//import 'rxjs/Rx';
 import { App2Module } from './modules/app2.module';
 
 
